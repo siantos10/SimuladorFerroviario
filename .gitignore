@@ -1,0 +1,18 @@
+# Diretorios de Compilacao e Build
+build/
+bin/ 
+lib/ 
+out/ 
+
+# Executaveis e Artefatos 
+*.exe 
+*.out 
+*.app 
+*.o 
+*.obj 
+
+# IDEs e Editores 
+.vscode/ 
+.idea/ 
+*.suo 
+*.user .DS_Store
