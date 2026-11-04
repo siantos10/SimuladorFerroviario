@@ -12,7 +12,6 @@ set(SOURCES
     src/models/Trem.cpp
     src/models/Estacao.cpp
     src/models/Passageiro.cpp
-    src/models/Viagem.cpp
     src/models/Incidente.cpp
 )
 
